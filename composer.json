@@ -2,7 +2,7 @@
     "name": "goalgorilla/open_social_upgrade_patches",
     "description": "A package to help with patch selection during the Drupal 9 to Drupal 10 upgrade of Open Social",
     "type": "metapackage",
-    "license": "GPLv2",
+    "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "require": {
         "drupal/dynamic_entity_reference": "^3"
